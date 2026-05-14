@@ -360,7 +360,6 @@ def run_attendance():
                 st.success( f"✅ Real Blink Verified ({blink_count})" )
 
                 st.session_state.blink = blink_count
-
                 st.session_state.step = 3
 
                 break
