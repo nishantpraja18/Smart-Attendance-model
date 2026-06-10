@@ -7,3 +7,4 @@ mysql-connector-python
 SpeechRecognition
 pyttsx3
 face-recognition
+opencv-python-headless
