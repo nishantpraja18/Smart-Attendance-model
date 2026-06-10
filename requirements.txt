@@ -1,9 +1,8 @@
 streamlit
 opencv-python-headless
-face-recognition
-numpy
-mysql-connector-python
+numpy==1.26.4
 pandas
+pillow
+mysql-connector-python
 SpeechRecognition
 pyttsx3
-
