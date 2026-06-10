@@ -6,6 +6,4 @@ mysql-connector-python
 pandas
 SpeechRecognition
 pyttsx3
-cmake
-dlib
-pillow
+
