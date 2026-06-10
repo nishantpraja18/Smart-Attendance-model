@@ -6,3 +6,4 @@ pillow
 mysql-connector-python
 SpeechRecognition
 pyttsx3
+face-recognition
