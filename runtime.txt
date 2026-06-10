@@ -1,4 +1,2 @@
 python-3.11
-app.py
-nanc.py
-requirements.txt
+
